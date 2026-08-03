@@ -7,7 +7,7 @@
 ---
 
 
-- 📫 Reach me at **sohailshaikhexe@gmail.com**
+- 📫 Reach me at **sohailxcode@gmail.com**
 
 ---
 
