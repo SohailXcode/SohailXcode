@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif" width="90" alt="Profile animation" />
+
 # Sohail Shaikh
 
 ### Technical Trainer &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Founder, Xcode Academy
@@ -97,5 +99,7 @@ I run [Xcode Academy](https://xcodeacademy.com), which delivers practical techno
 
 <div align="center">
 <br />
+<img src="https://media.giphy.com/media/N6kiM1uHRz7U84BUuk/giphy.gif" width="420" alt="Coding animation" />
+<br /><br />
 <sub>Open to training partnerships with colleges and corporate teams across India.</sub>
 </div>
