@@ -1,29 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,50:0A66FF,100:7C3AED&height=170&section=header&text=Sohail%20Shaikh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Technical%20Trainer%20%C2%B7%20Developer%20%C2%B7%20Founder%2C%20Xcode%20Academy&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Sohail Shaikh, Technical Trainer, Developer, Founder of Xcode Academy" />
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif" width="90" alt="Profile animation" />
 
-# Sohail Shaikh
+<br />
 
-### Technical Trainer &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Founder, Xcode Academy
+<a href="https://github.com/SohailXcode">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0A66FF&center=true&vCenter=true&width=520&lines=I+teach+people+to+build+software.;Java+%C2%B7+Full+Stack+%C2%B7+DSA+%C2%B7+AI%2FML;Training+for+colleges+and+corporate+teams.;Based+in+Pune%2C+India." alt="Typing intro" />
+</a>
 
-Pune, India
+<br /><br />
+
+<a href="https://xcodeacademy.com">
+  <img src="https://img.shields.io/badge/%E2%86%97%20%20Visit-xcodeacademy.com-0A66FF?style=for-the-badge&labelColor=0A0F1F&logo=googlechrome&logoColor=white" height="34" alt="Visit xcodeacademy.com" />
+</a>
+&nbsp;
+<a href="PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20%20Portfolio-View%20my%20work-7C3AED?style=for-the-badge&labelColor=0A0F1F&logo=vercel&logoColor=white" height="34" alt="View my portfolio" />
+</a>
 
 <br />
 
-<a href="https://xcodeacademy.com">
-  <img src="https://img.shields.io/badge/Xcode_Academy-xcodeacademy.com-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xcode Academy website" />
-</a>
 <a href="mailto:contact@xcodeacademy.com">
-  <img src="https://img.shields.io/badge/Email-contact@xcodeacademy.com-1F2937?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/%E2%9C%89%20%20Email-contact%40xcodeacademy.com-111827?style=for-the-badge&labelColor=0A0F1F&logo=gmail&logoColor=white" height="34" alt="Email contact@xcodeacademy.com" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sohail-shaikh-a636b03b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sohail_Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A0F1F&logo=linkedin&logoColor=white" height="34" alt="Connect on LinkedIn" />
 </a>
-<!-- PORTFOLIO: replace PORTFOLIO_URL below, then delete this line and the closing comment line
-<a href="PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-View_my_work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
--->
 
 </div>
 
@@ -94,6 +99,7 @@ I run [Xcode Academy](https://xcodeacademy.com), which delivers practical techno
 | | |
 |---|---|
 | Training enquiries | [xcodeacademy.com/contact](https://xcodeacademy.com/contact) |
+| Portfolio | [View my work](PORTFOLIO_URL) |
 | Email | [contact@xcodeacademy.com](mailto:contact@xcodeacademy.com) |
 | LinkedIn | [sohail-shaikh](https://www.linkedin.com/in/sohail-shaikh-a636b03b8/) |
 
@@ -103,3 +109,5 @@ I run [Xcode Academy](https://xcodeacademy.com), which delivers practical techno
 <br /><br />
 <sub>Open to training partnerships with colleges and corporate teams across India.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0A66FF,100:0A0F1F&height=110&section=footer" width="100%" alt="" />
