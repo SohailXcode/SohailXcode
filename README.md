@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://github.com/SohailXcode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0A66FF&center=true&vCenter=true&width=520&lines=I+teach+people+to+build+software.;Java+%C2%B7+Full+Stack+%C2%B7+DSA+%C2%B7+AI%2FML;Training+for+colleges+and+corporate+teams.;Based+in+Pune%2C+India." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0A66FF&center=true&vCenter=true&width=520&lines=I+turn+hard+topics+into+simple+lessons.;Java+%C2%B7+Full+Stack+%C2%B7+DSA+%C2%B7+AI%2FML;Training+for+colleges+and+corporate+teams.;Based+in+Pune%2C+India." alt="Typing intro" />
 </a>
 
 <br /><br />
@@ -16,19 +16,26 @@
   <img src="https://img.shields.io/badge/%E2%86%97%20%20Visit-xcodeacademy.com-0A66FF?style=for-the-badge&labelColor=0A0F1F&logo=googlechrome&logoColor=white" height="34" alt="Visit xcodeacademy.com" />
 </a>
 &nbsp;
-<a href="PORTFOLIO_URL">
+<a href="https://sohail.xcodeacademy.com/">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20%20Portfolio-View%20my%20work-7C3AED?style=for-the-badge&labelColor=0A0F1F&logo=vercel&logoColor=white" height="34" alt="View my portfolio" />
 </a>
 
 <br />
 
-<a href="mailto:contact@xcodeacademy.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%20%20Email-contact%40xcodeacademy.com-111827?style=for-the-badge&labelColor=0A0F1F&logo=gmail&logoColor=white" height="34" alt="Email contact@xcodeacademy.com" />
+<a href="mailto:sohail@xcodeacademy.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89%20%20Email-sohail%40xcodeacademy.com-111827?style=for-the-badge&labelColor=0A0F1F&logo=gmail&logoColor=white" height="34" alt="Email sohail@xcodeacademy.com" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sohail-shaikh-a636b03b8/">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A0F1F&logo=linkedin&logoColor=white" height="34" alt="Connect on LinkedIn" />
 </a>
+
+<br /><br />
+
+<a href="https://www.youtube.com/@SohailXcode"><img src="https://img.shields.io/badge/YouTube-SohailXcode-FF0000?style=flat-square&labelColor=0A0F1F&logo=youtube&logoColor=white" height="26" alt="YouTube" /></a>
+<a href="https://www.instagram.com/sohailxcode"><img src="https://img.shields.io/badge/Instagram-sohailxcode-E4405F?style=flat-square&labelColor=0A0F1F&logo=instagram&logoColor=white" height="26" alt="Instagram" /></a>
+<a href="https://x.com/SohailXcode"><img src="https://img.shields.io/badge/X-SohailXcode-1F2937?style=flat-square&labelColor=0A0F1F&logo=x&logoColor=white" height="26" alt="X" /></a>
+<a href="https://topmate.io/sohailxcode"><img src="https://img.shields.io/badge/Book_a_session-Topmate-E44332?style=flat-square&labelColor=0A0F1F&logo=googlecalendar&logoColor=white" height="26" alt="Book a session on Topmate" /></a>
 
 </div>
 
@@ -99,9 +106,13 @@ I run [Xcode Academy](https://xcodeacademy.com), which delivers practical techno
 | | |
 |---|---|
 | Training enquiries | [xcodeacademy.com/contact](https://xcodeacademy.com/contact) |
-| Portfolio | [View my work](PORTFOLIO_URL) |
-| Email | [contact@xcodeacademy.com](mailto:contact@xcodeacademy.com) |
+| Portfolio | [View my work](https://sohail.xcodeacademy.com/) |
+| Email | [sohail@xcodeacademy.com](mailto:sohail@xcodeacademy.com) |
 | LinkedIn | [sohail-shaikh](https://www.linkedin.com/in/sohail-shaikh-a636b03b8/) |
+| YouTube | [@SohailXcode](https://www.youtube.com/@SohailXcode) |
+| Instagram | [@sohailxcode](https://www.instagram.com/sohailxcode) |
+| X | [@SohailXcode](https://x.com/SohailXcode) |
+| 1:1 session | [topmate.io/sohailxcode](https://topmate.io/sohailxcode) |
 
 <div align="center">
 <br />
